@@ -1,7 +1,8 @@
 # 🎯 WB 平台规则研究 Agent — 能力包
 
-> **给接收方 Agent 的入口文档：把本仓库交给你，你就拥有了 WB（Wildberries）平台规则 + 运营方法论 + 广告诊断能力。**
-> 使用方式：把本仓库地址告诉任何 Agent（Claude Code / Codex / 其他），它读这份 AGENTS.md 即可开箱即用。
+> **给接收方 Agent 的入口文档：把本文件夹交给你，你就拥有了 WB（Wildberries）平台规则 + 运营方法论 + 广告诊断能力。**
+> 本目录是总仓库 `platform-rules-agent` 的一个子项目（总仓库还包含 Ozon 等其他平台的规划）。
+> 使用方式：把本文件夹地址告诉任何 Agent（Claude Code / Codex / 其他），它读这份 AGENTS.md 即可开箱即用。
 
 ---
 
