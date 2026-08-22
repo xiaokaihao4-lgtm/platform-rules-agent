@@ -68,6 +68,14 @@
 6. **出价高 ≠ 排名高**：推广位排名 = 有机权重 × 出价权重，先优化卡片再谈出价
 7. **淡季降出价，不要转回自动**（转模式 = 又清零一次关键词）
 
+## ⚠️ 后台访问铁律（涉及浏览器时必须读《登录模式-共享规范.md》和《WB后台访问行为规范.md》）
+
+1. **能不开浏览器就不开**：读规则用 curl，查知识库用文件工具
+2. **绝不删锁文件**：`cleanProfileLocks()` 已从所有脚本移除——删 SingletonLock/Cookie = 用户被迫重新登录
+3. **绝不 kill -9 / pkill Chrome**：正常 `context.close()`，让登录态写回磁盘
+4. **同一 profile 同一时间只允许一个任务**：开前查 `ps aux | grep wb_chrome_profile`
+5. **登录态 1 个月过期**：每周开一次 WB 后台保活
+
 ## 数据来源说明
 
 - 规则内容来自 WB 官方帮助中心（seller.wildberries.ru/instructions）抓取整理
