@@ -1,0 +1,27 @@
+{
+  "url": "https://seller.wildberries.ru/instructions/ru/ru/material/promo-events-calendar",
+  "title": "Календарь акций",
+  "bodyText": "Календарь акций",
+  "links": [
+    {
+      "text": "Развитие навыков",
+      "href": "https://pro.wildberries.ru/ru/events-calendar"
+    },
+    {
+      "text": "Назад",
+      "href": "/instructions/ru/ru/subcategory/events-and-discounts"
+    },
+    {
+      "text": "Товары и цены → Календарь акций",
+      "href": "https://seller.wildberries.ru/dp-promo-calendar"
+    },
+    {
+      "text": "Акции на Wildberries",
+      "href": "/instructions/ru/ru/material/A-323?recommended=true"
+    },
+    {
+      "text": "Автоакции",
+      "href": "/instructions/ru/ru/material/A-263?recommended=true"
+    }
+  ]
+}

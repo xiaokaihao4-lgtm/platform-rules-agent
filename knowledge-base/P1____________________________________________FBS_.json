@@ -1,0 +1,39 @@
+{
+  "url": "https://seller.wildberries.ru/instructions/ru/ru/category/orders-management-with-fbs-model",
+  "title": "Работа с заказами по модели «Маркетплейс» (FBS)",
+  "bodyText": "НазадРабота с заказами по модели «Маркетплейс» (FBS)Отмена и возврат заказов по FBSО модели «Маркетплейс» (FBS)Упаковка товаров по FBSМаркировка товаров и заказов по FBSОбработка заказов по модели FBSУправление заказами по FBS",
+  "links": [
+    {
+      "text": "Развитие навыков",
+      "href": "https://pro.wildberries.ru/ru/events-calendar"
+    },
+    {
+      "text": "Назад",
+      "href": "/instructions/ru/ru/categories"
+    },
+    {
+      "text": "Отмена и возврат заказов по FBS",
+      "href": "/instructions/ru/ru/subcategory/orders-cancel-and-returns-in-fbs"
+    },
+    {
+      "text": "О модели «Маркетплейс» (FBS)",
+      "href": "/instructions/ru/ru/subcategory/fbs-model"
+    },
+    {
+      "text": "Упаковка товаров по FBS",
+      "href": "/instructions/ru/ru/subcategory/pack-items-in-fbs"
+    },
+    {
+      "text": "Маркировка товаров и заказов по FBS",
+      "href": "/instructions/ru/ru/subcategory/labeling-items-and-orders-in-fbs"
+    },
+    {
+      "text": "Обработка заказов по модели FBS",
+      "href": "/instructions/ru/ru/subcategory/how-to-process-orders-in-fbs"
+    },
+    {
+      "text": "Управление заказами по FBS",
+      "href": "/instructions/ru/ru/subcategory/orders-management"
+    }
+  ]
+}
