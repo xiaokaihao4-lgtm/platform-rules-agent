@@ -7,7 +7,7 @@
 | 子项目 | 平台 | 内容 | 状态 |
 |--------|------|------|:---:|
 | `WB-规则研究 Agent/` | **Wildberries（WB）** | 平台规则 + 广告方法论 + 诊断 SOP + 运营手册 | ✅ 完整 |
-| `Ozon-规则研究 Agent/` | **Ozon（欧众）** | 待研究 | ⏳ 规划中 |
+| `Ozon-规则研究 Agent/` | **Ozon（欧众）** | 仅有FBO | ⏳ 收录中 |
 
 > 后续可扩展：Yandex Market、AliExpress Russia 等。
 
@@ -32,7 +32,7 @@ platform-rules-agent/
 │   ├── README.md
 │   ├── 知识库/                ← 18 份中文规则
 │   └── knowledge-base/        ← 原始抓取 JSON
-└── Ozon-规则研究 Agent/       ← （规划中）
+└── Ozon-规则研究 Agent/       ← （收录中）
     └── README.md
 ```
 
