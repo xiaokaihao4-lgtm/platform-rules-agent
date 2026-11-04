@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ozon University"
+  short_description: "Ozon 大学中文蒸馏：商品、FBO、财务、推广、售后、课程、更新与 Seller API"
+  default_prompt: "Use $ozon-university to answer this Ozon business question, prefer the distilled chapter conclusion first, and relate it back to the current project."
